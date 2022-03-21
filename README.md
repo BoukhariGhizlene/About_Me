@@ -1,0 +1,4 @@
+- Hi, I’m Boukhari Ghizlene
+- I'm interested in web development(django in backend and react in frontend)
+- I’m currently learning react and node js 
+-I plan to learn 3d design in the future
